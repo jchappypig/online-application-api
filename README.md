@@ -2,6 +2,8 @@
 
 Greedy first taste of rails 5 API.
 
+![alt text](https://github.com/jchappypig/online-application-api/blob/master/Screen.Shot.2016-02-28.at.12.29.04.am.png "You see this because you are smart")
+
 ### Upgrade to rails 5
 Install Ruby 2.3.0
 ```sh
