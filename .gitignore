@@ -19,7 +19,6 @@
 
 tmp/
 log/
-bin/
 
 # Ignore Byebug command history file.
 .byebug_history
