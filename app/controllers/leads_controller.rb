@@ -5,7 +5,7 @@ class LeadsController < ApplicationController
   def index
     @leads = Lead.all
 
-    render json: @leads
+    render json: @leads, each_serializer: LeadSerializer
   end
 
   # GET /leads/1
